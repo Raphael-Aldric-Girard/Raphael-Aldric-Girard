@@ -18,7 +18,7 @@ Voici mon réferentiel recensant les projets réalisés durant mon cursus ainsi 
 ## Projet Mangathèque 📚:
 
 * <strong>Description :</strong> Mangathèque permettant de consulter les informations de mangas proposés dans une mangathèque
-* <p><strong>Répositorie :</strong> <a href=https://github.com/Raphael-Aldric-Girard/projet-mangath-que">la mangathèque</a></p>
+* <p><strong>Répositorie :</strong> <a href="https://github.com/Raphael-Aldric-Girard/projet-mangath-que">la mangathèque</a></p>
 
 
 
