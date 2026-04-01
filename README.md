@@ -9,16 +9,18 @@ Voici mon réferentiel recensant les projets réalisés durant mon cursus ainsi 
 
 # Projets réalisés durant la formation du BTS SIO 📁
 
-## Consommation d'une api 🌐:
+## Générateur de blague 🌐:
 
-* <strong>Description :</strong> Projet initiant à la consommation d'api, sous la forme d'un générateur de blague, on va récupérer via une api déjà mise à disposition un nopmbre de blague qu'on aura choisit au préalable et les afficher.
+* <strong>Description :</strong> Projet initiant à la consommation d'api, sous la forme d'un générateur de blague, on va récupérer via une api déjà mise à disposition un nombre de blague qu'on aura choisit au préalable et les afficher.
 
 * <p><strong>Répositorie :</strong> <a href=https://github.com/Raphael-Aldric-Girard/TP_API_GENERATEUR_BLAGUE">générateur de blague</a></p> 
 
 ## Projet Mangathèque 📚:
 
-* <strong>Description :</strong> Mangathèque permettant de consulter les informations de mangas
-* <p><strong>Répositorie :</strong> <a href=https://github.com/Raphael-Aldric-Girard/projet-mangath-que">la mangathèque</a></p> 
+* <strong>Description :</strong> Mangathèque permettant de consulter les informations de mangas proposés dans une mangathèque
+* <p><strong>Répositorie :</strong> <a href=https://github.com/Raphael-Aldric-Girard/projet-mangath-que">la mangathèque</a></p>
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
