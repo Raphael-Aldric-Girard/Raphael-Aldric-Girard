@@ -13,7 +13,7 @@ Voici mon réferentiel recensant les projets réalisés durant mon cursus ainsi 
 
 * <strong>Description :</strong> Projet initiant à la consommation d'api, sous la forme d'un générateur de blague, on va récupérer via une api déjà mise à disposition un nombre de blague qu'on aura choisit au préalable et les afficher.
 
-* <p><strong>Répositorie :</strong> <a href=https://github.com/Raphael-Aldric-Girard/GENERATEUR_BLAGUE">générateur de blague</a></p> 
+* <p><strong>Répositorie :</strong> <a href="https://github.com/Raphael-Aldric-Girard/GENERATEUR_BLAGUE">générateur de blague</a></p> 
 
 ## Projet Mangathèque 📚:
 
