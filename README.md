@@ -9,15 +9,15 @@ Voici mon réferentiel recensant les projets réalisés durant mon cursus ainsi 
 
 # Projets réalisés durant la formation du BTS SIO 📁
 
-## Générateur de blague 🌐:
-
-* <strong>Description :</strong> Projet initiant à la consommation d'api, sous la forme d'un générateur de blague, on va récupérer via une api déjà mise à disposition un nombre de blague qu'on aura choisit au préalable et les afficher.
-* <p><strong>Répositorie :</strong> <a href="https://github.com/Raphael-Aldric-Girard/GENERATEUR_BLAGUE">générateur de blague</a></p> 
-
 ## Projet Mangathèque 📚:
 
 * <strong>Description :</strong> Mangathèque permettant de consulter les informations de mangas proposés dans une mangathèque
 * <p><strong>Répositorie :</strong> <a href="https://github.com/Raphael-Aldric-Girard/projet-mangath-que">la mangathèque</a></p>
+
+## Générateur de blague 🌐:
+
+* <strong>Description :</strong> Projet initiant à la consommation d'api, sous la forme d'un générateur de blague, on va récupérer via une api déjà mise à disposition un nombre de blague qu'on aura choisit au préalable et les afficher.
+* <p><strong>Répositorie :</strong> <a href="https://github.com/Raphael-Aldric-Girard/GENERATEUR_BLAGUE">générateur de blague</a></p> 
 
 ## Le Pokedex 🐦:
 * <strong>Description :</strong> situation initiant la mise en place d'API avec NodeJS.
