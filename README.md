@@ -12,7 +12,6 @@ Voici mon réferentiel recensant les projets réalisés durant mon cursus ainsi 
 ## Générateur de blague 🌐:
 
 * <strong>Description :</strong> Projet initiant à la consommation d'api, sous la forme d'un générateur de blague, on va récupérer via une api déjà mise à disposition un nombre de blague qu'on aura choisit au préalable et les afficher.
-
 * <p><strong>Répositorie :</strong> <a href="https://github.com/Raphael-Aldric-Girard/GENERATEUR_BLAGUE">générateur de blague</a></p> 
 
 ## Projet Mangathèque 📚:
@@ -20,7 +19,19 @@ Voici mon réferentiel recensant les projets réalisés durant mon cursus ainsi 
 * <strong>Description :</strong> Mangathèque permettant de consulter les informations de mangas proposés dans une mangathèque
 * <p><strong>Répositorie :</strong> <a href="https://github.com/Raphael-Aldric-Girard/projet-mangath-que">la mangathèque</a></p>
 
+## Le Pokedex 🐦:
+* <strong>Description :</strong> situation initiant la mise en place d'API avec NodeJS.
+* <p><strong>Répositorie :</strong> <a href="https://github.com/Raphael-Aldric-Girard/POKEDEX-API-NodeJS.git">Le Pokedex</a></p>
 
+## Projet de gestion de circuit application cliente 🏎️:
+* <strong>Contexte :</strong> Le circuit Ricard Paul souhaite mettre en place un moyen pour ses clients de pouvoir réserver des sessions de roulage ou des leçons de pilotage via une application. 
+* <strong>Description :</strong> Application cliente rélisée en web.
+* <p><strong>Répositorie :</strong> <a href="https://github.com/Raphael-Aldric-Girard/Gestion_de_circuit.git">Application cliente du circuit Ricard Paul</a></p>
+
+## Projet de gestion de circuit application lourde 🏎️:
+* <strong>Contexte :</strong> Le circuit Ricard Paul souhaite mettre en place un moyen pour ses clients de pouvoir faire la gestion des réservations des sessions de roulage ou des leçons de pilotage via une application. 
+* <strong>Description :</strong> Application cliente lourde réalisée en flutter.
+* <p><strong>Répositorie :</strong> <a href="https://github.com/Raphael-Aldric-Girard/Gestion_De_Circuit_App_Lourde.git">Application lourde du circuit Ricard Paul</a></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
